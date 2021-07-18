@@ -1,0 +1,71 @@
+body{
+background: rgb(147, 191, 248);
+}
+
+/* .todo-container{
+background: rgb(255, 247, 247);
+max-width: 35rem;
+margin-left: auto;
+margin-right: auto;
+border-radius: 5px;
+color: rgb(0, 0, 0);
+border: 3px solid rgb(46, 46, 46);
+}
+    
+.task{
+border: 1px solid rgb(0, 0, 0);
+border-radius: 2px;
+padding: 0.5em;
+margin: 0.5em;
+}
+
+.task button{
+background: rgb(216, 216, 216);
+border-radius: 5px;
+margin: 0px 5px;
+padding: 3px 5px;
+border: 1px solid black;
+cursor: pointer;
+color: rgb(7, 7, 7);
+float: right;
+}
+
+
+
+.create-task input[type=text]{
+    background-color: rgb(226, 224, 224);
+margin: 2rem 2rem;
+width: 85%;
+outline: none;
+border: none;
+padding: 0.7em;
+}
+
+#month{
+    max-width: 35rem;
+    margin: 5em auto;
+}*/
+
+.list{
+    width: 35rem;
+    height: 8vh;
+    margin-left: 25em;
+} 
+
+
+.header1{
+    text-align:center;
+    background-color: black;
+    color: white;
+}
+
+.container1{
+    position: relative;
+}
+
+button{
+    float: right;
+    margin-right: 3px;
+    border: 1px solid black !important;
+    font-size:small !important;
+}

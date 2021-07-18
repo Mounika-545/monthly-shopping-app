@@ -60,7 +60,8 @@ class Todo extends Component {
         })
         return (
             <div>
-                <input className="list" type="text" placeholder="Add Shopping Item" onKeyPress={this.addGroceryItem()} />
+                {/* <input className="list" type="text" placeholder="Add Shopping Item" onKeyPress={this.addGroceryItem()} /> */}
+                <input className="list" type="text" placeholder="Add Shopping Item" />
                 {groceriesList}
             </div>
         )
